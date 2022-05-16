@@ -9,7 +9,7 @@
 - ✉️  You can contact me at [ogzhner5@gmail.com](mailto:ogzhner5@gmail.com)
 - 🧠  I'm learning JavaScript
 
-<a href="https://www.twitter.com/serhatc4n" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/Erouzy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Erouzzy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"></a>
 
 
