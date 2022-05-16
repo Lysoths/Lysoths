@@ -38,7 +38,7 @@ src="https://img.shields.io/twitter/follow/Erouzzy?logo=twitter&style=for-the-ba
 
 <details>
 <summary>💡 Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Lysoths&theme=dracula&show_icons=true%22%3E"
+<img src="https://github-readme-stats.vercel.app/api?username=Lysoths&theme=dracula&show_icons=true%22%3E"</img>
 </details>
 
  
