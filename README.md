@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="400" height="250">
 
 - 🌍  I'm based in Kırklareli
-- 🖥️  See my website at [My Website](Not yet..)
+- 🖥️  See my website at <a href="www.ogzhner.com" target="_blank"> Website </a>
 - ✉️  You can contact me at [ogzhner5@gmail.com](mailto:ogzhner5@gmail.com)
 - 🧠  I'm learning JavaScript
 
