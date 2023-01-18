@@ -7,7 +7,7 @@
 - 🌍  I'm based in Kırklareli
 - 🖥️  See my website at [My Website](http:/ogzhner.com)
 - ✉️  You can contact me at [ogzhner5@gmail.com](mailto:ogzhner5@gmail.com)
-- 🧠  I'm learning JavaScript
+- 🧠  I'm learning React
 
 <a href="https://www.twitter.com/Erouzzy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Erouzzy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"></a>
