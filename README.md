@@ -97,13 +97,6 @@ const oguzhan = {
   <img src="https://github-profile-trophy.vercel.app/?username=Lysoths&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
 </div>
 
-## 📈 Kodlama Aktivitem
-
-<div align="center">
-  <img src="https://wakatime.com/share/@Lysoths/2e27f8a7-7e0f-4fd2-a245-6ea7bb80b644.svg" width="48%"/>
-  <img src="https://wakatime.com/share/@Lysoths/95dce90e-49bb-4329-9b76-59faeb3c761a.svg" width="48%"/>
-</div>
-
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -113,6 +106,14 @@ const oguzhan = {
   <a href="https://github.com/Lysoths/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lysoths&repo=project2&theme=tokyonight" />
   </a>
+</div>
+
+## 💭 Rastgele Dev Quote
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
 ## 📬 Benimle İletişime Geçin
@@ -125,30 +126,6 @@ const oguzhan = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ogzhner5@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 [![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](#)
-
-</div>
-
-## 🎵 Spotify'da Şu An Çalıyor
-
-<div align="center">
-  
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/username)
-
-</div>
-
-## 💭 Rastgele Dev Quote
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-## 🐍 Katkı Grafiği
-
-<div align="center">
-  
-![Snake animation](https://github.com/Lysoths/Lysoths/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
