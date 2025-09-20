@@ -100,11 +100,8 @@ const oguzhan = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Lysoths/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lysoths&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Lysoths/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lysoths&repo=project2&theme=tokyonight" />
+  <a href="https://github.com/Lysoths/icantspeakenglish">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lysoths&repo=icantspeakenglish&theme=tokyonight" />
   </a>
 </div>
 
