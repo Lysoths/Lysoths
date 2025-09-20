@@ -101,7 +101,7 @@ const oguzhan = {
 
 <div align="center">
   <a href="https://github.com/Lysoths/icantspeakenglish">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lysoths&repo=icantspeakenglish&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lysoths&repo=anketcim&theme=tokyonight" />
   </a>
 </div>
 
